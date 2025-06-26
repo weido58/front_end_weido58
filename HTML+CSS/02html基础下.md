@@ -344,3 +344,8 @@ file 文件域
 </html>
 ```
 
+## 五、文档查询
+
+W3C：[w3school 在线教程](https://www.w3school.com.cn/)
+
+MDN：[MDN Web Docs](https://developer.mozilla.org/zh-CN/)
